@@ -1,11 +1,10 @@
 import * as React from "react";
 import { Link } from "gatsby";
 
-import logo from "../img/logo.svg";
+import blogseshibra from "../img/blogseshibra.png";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
-import twitter from "../img/social/twitter.svg";
-import vimeo from "../img/social/vimeo.svg";
+
 
 const Footer = class extends React.Component {
   render() {
@@ -13,7 +12,7 @@ const Footer = class extends React.Component {
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
           <img
-            src={logo}
+            src={blogseshibra}
             alt="Kaldi"
             style={{ width: "14em", height: "10em" }}
           />
@@ -35,13 +34,8 @@ const Footer = class extends React.Component {
                       </Link>
                     </li>
                     <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact/examples">
-                        Form Examples
+                      <Link className="navbar-item" to="/blog">
+                        Blog
                       </Link>
                     </li>
                     <li>
