@@ -18,7 +18,7 @@ Op **7 februari** begon IT stage voor de graduaatsstudenten van AP. Voor mij ook
 
 ## Eerste afspraken
 
-Na de toer kregen we meer info over onze stageopdrachten en welke verwachtingen hierrond waren. Daar vertel ik straks meer over. Belangrijk om te weten is dat ik mijn stageopdracht bestaat uit **2 delen: namelijk 1 voor Web en 1 voor Mobile**. Deze mag ik gelukkig samen doen met 2 andere studenten, namelijk **Khalid en Hugues**. Individueel zou het nogal een boterham geweest zijn, aangezien we een **test automatisation framework** moeten bouwen voor Web en Mobile! Onze stageopdracht is gebaseerd op een applicatie dat vorige stagiairs gebouwd hebben, namelijk een online movie rental (web)applicatie. Deze applicatie is vergezeld met enkele bugs die door de admin in- en uitgeschakeld kunnen worden. \
+Na de toer kregen we meer info over onze stageopdrachten en welke verwachtingen hierrond waren. Daar vertel ik straks meer over. Deze mag ik gelukkig samen doen met 2 andere studenten, namelijk **Khalid en Hugues**. Individueel zou het nogal een boterham geweest zijn, aangezien we een **test automation framework** moeten bouwen voor Web en Mobile! Onze stageopdracht is gebaseerd op een applicatie dat vorige stagiairs gebouwd hebben, namelijk een online movie rental (web)applicatie. Deze applicatie is vergezeld met enkele bugs die door de admin in- en uitgeschakeld kunnen worden. \
 \
 Om de stage zo goed mogelijk te laten verlopen, werden enkele afspraken vastgelegd, waarvan ik de belangrijkste ga oplijsten
 
@@ -40,14 +40,20 @@ Het doel van dit onderdeel is het ontwikkelen van een test automatisatie framewo
 
 De opdracht bestaat uit de volgende stappen: 
 
-* de applicatie leren kennen 
-* testscenario’s (10) uitschrijven voor de applicaties 
-* onderzoek naar de meest geschikte manier/ oplossing voor testautomatisatie voor een web- en mobiele applicatie (Android & IOS
-* ontwikkelen van een testautomatisatie framework, bijhorende scripting, integratie met een testcase management systeem (Testrail), rapportering, ...
+* *de applicatie leren kennen* 
+* *testscenario’s (10) uitschrijven voor de applicaties* 
+* *onderzoek naar de meest geschikte manier/ oplossing voor testautomatisatie voor een web- en mobiele applicatie (Android & IOS*
+* *ontwikkelen van een testautomatisatie framework, bijhorende scripting, integratie met een testcase management systeem (Testrail), rapportering, ...*
 
 Indien deze opdracht vroegtijdig af is, heeft Brightest nog iets in petto voor ons. Op het einde moeten we ook zien dat we een beetje marketing doen:  het maken van een demo zodat het nut van test automatisatie kan worden aangetoond voor klanten, scholen, … Deze film of onderdelen ervan zullen gebruikt worden op social media, beurzen en dergelijke. 
 
 Zoals te zien is het nogal een hevige opdracht, daarom ben ik blij samen te mogen werken met medestudenten. Ik heb met Hugues al 2 projecten ten goede einde gebracht, die van IT Project en IT Case. Bij Khalid heb ik gemerkt dat hij een gedreven persoon is met nogal wat IT-inzicht. Hierdoor ben ik optimistisch over het verloop van onze stage en verwacht ik vooral om zeer veel bij te leren! 
+
+## Wat we zoal hebben gedaan
+
+Aangezien we nog niet mochten coderen voor de eerste week, was het vooral het leren kennen van de bestaande B-Tube applicatie leren kennen. Deze is vergezeld met bugs die men in de admin panel kan aan- en uitzetten. Er waren nogal lange Wiki pages bij die we moesten doorlezen en begrijpen, wat we ook gedaan hebben. Daarnaast hebben we extensief research naar Selenium en Page Object Model gedaan, om zo beter te begrijpen wat Brightest van ons verwacht met een Automation Framework. Ook hebben we alle nodige accounts aangemaakt, Trello ingesteld zoals verwacht van Brightest. Ten slotte hebben we basistesten uitgeschreven en als team verbeterd. \
+\
+In het weekend was ik vooral bezig met deze blog op te stellen en aan te vullen.
 
 Hierronder een kort zicht op onze Trello-bord: er waren nog zeker een stuk of 15 meer stories, maar het leek me omslachtig om deze allemaal op blog te plaatsen.
 
