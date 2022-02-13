@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: "Het begin: Eerste week IT Stage"
-date: 2022-02-11T06:37:02.469Z
+title: "Het begin: IT Stage"
+date: 2022-02-13T09:59:26.937Z
 description: "In deze blogpost vertel ik kort over wat ik heb meegemaakt tijdens
   mijn eerste week stage bij Brightest. "
 featuredpost: true

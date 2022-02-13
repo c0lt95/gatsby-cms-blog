@@ -22,12 +22,12 @@ main:
   heading: Portfolio en Blog
   description: Hier lees en zie je alles wat ik meemaak bij Brightest!
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: kofffffffie
     image: /img/jumbotron.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: brightest logo
     image: /img/brightest-logo.png
   image3:
-    alt: Coffee beans
+    alt: gratis koffie!!
     image: /img/safari-pinned-tab.svg
 ---
