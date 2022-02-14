@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: "Blog session for IT Stage ",
     description:
-      "Op deze site zal ik mijn progress loggen tijdens het bouwen van een Test Automation Framework",
+      "Op deze site zal ik mijn progress loggen tijdens het bouwen van een Test Automation Frameworkg",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
