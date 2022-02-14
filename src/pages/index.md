@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Ibragim Ismailov
 image: /img/banner-g216e1a081_1920.jpg
-heading: Portfolio
+heading: "_____ "
 subheading: "Portfolio en Blog "
 mainpitch:
   title: Wie ben ik
@@ -11,9 +11,8 @@ mainpitch:
     loop stage bij Brightest om zo hopelijk mijn studies in goede banen af te
     ronden. Hier zal ik wekelijks bloggen over wat ik heb meegemaakt en stuk
     voor stuk mijn portfolio aanvullen. 
-description: "Stuk voor stuk zal ik documenteren wat we bouwen tijdens ons
-  stage. Tijdens de eerste week mochten we nog niks coderen, dus zal het
-  voorlopig nog leeg zijn. "
+description: Stuk voor stuk zal ik documenteren wat we bouwen tijdens ons stage
+  en hoe alles verloopt.
 intro:
   blurbs: []
   heading: Portfolio en Blog
