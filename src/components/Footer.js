@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Link } from "gatsby";
 
-import blogseshibra from "../img/logoz.jpg";
+
 
 
 
@@ -10,11 +10,7 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img
-            src={blogseshibra}
-            alt="Blog Session with Ibra"
-            style={{ width: "14em", height: "10em" }}
-          />
+          
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
