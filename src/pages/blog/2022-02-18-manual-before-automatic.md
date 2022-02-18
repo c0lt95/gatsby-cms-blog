@@ -4,7 +4,7 @@ title: "Manual before Automatic "
 date: 2022-02-18T13:54:32.628Z
 description: "Week 2 "
 featuredpost: true
-featuredimage: /img/brightest-logo.png
+featuredimage: /img/dzaezaeaze.png
 tags:
   - week2
   - testcase
