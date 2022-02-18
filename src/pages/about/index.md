@@ -29,8 +29,6 @@ Door in te zetten op innovatie oplossingen en de standaard hoger te zetten na el
 
 Voor die reden is *BrightBeing* gestart: Met deze concept bieden ze *Bright* people een individu specifieke carrièreroute met expertise support gepaard met individuele mentale, psychologische en fysieke coaching.
 
+### Mijn functie als stagiair
 
-
-### My role as an intern
-
-Samen met 2 andere studenten, Khalid en Hugues, hebben we de taak gekregen om een test automation framework te bouwen. Ht zou moeten werken op zowel Web- als Mobile-Applications. Het zou globaal moeten werken (Windows, iOs, Android), maar we beginnen de vertrekken de testing process vanuit een Digtal Movie Rental applicatie genaamd "B-Tube". We hebben de vrijheid gekregen om technologiën naar onze wensen te gebruiken. De voorkeer is gegaan naar Selenium n Appium gegaan om onze doelen te bereiken. Graag verwijs ik u naar mijn eerst blogpost om meer te weten te komen.
+Samen met 2 andere studenten, Khalid en Hugues, hebben we de taak gekregen om een test automation framework te bouwen. Ht zou moeten werken op zowel Web- als Mobile-Applications. Het zou globaal moeten werken (Windows, iOs, Android), maar we beginnen de vertrekken de testing process vanuit een Digtal Movie Rental applicatie genaamd "B-Tube". We hebben de vrijheid gekregen om technologiën naar onze wensen te gebruiken. De voorkeer is gegaan naar Selenium n Appium gegaan om onze doelen te bereiken. Graag verwijs ik u naar [mijn eerste blogpost](https://blogseshwithibra.netlify.app/blog/2022-02-13-het-begin-it-stage/) om meer te weten te komen.
