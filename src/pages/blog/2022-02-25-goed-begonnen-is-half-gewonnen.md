@@ -4,7 +4,7 @@ title: Goed begonnen is half gewonnen
 date: 2022-02-25T11:44:18.525Z
 description: Week 3
 featuredpost: true
-featuredimage: /img/dzaezaeaze.png
+featuredimage: /img/png-clipart-trophy-pinewood-derby-medal-1st-ribbon-logo.png
 tags:
   - week3
   - testcases
