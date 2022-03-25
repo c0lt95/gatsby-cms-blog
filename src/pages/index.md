@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
-title: Ibragim Ismailov
+title: IT Stage
 image: /img/banner-g216e1a081_1920.jpg
 heading: "_____ "
 subheading: "Portfolio en Blog "
 mainpitch:
   title: Wie ben ik
   description: >
-    Ik ben Ibragim Ismailov en studeer Programmeren aan de AP Hogeschool. Ik
-    loop stage bij Brightest om zo hopelijk mijn studies in goede banen af te
-    ronden. Hier zal ik wekelijks bloggen over wat ik heb meegemaakt en stuk
-    voor stuk mijn portfolio aanvullen. 
+    Ik studeer Programmeren aan de AP Hogeschool. Ik loop stage bij Brightest om
+    zo hopelijk mijn studies in goede banen af te ronden. Hier zal ik wekelijks
+    bloggen over wat ik heb meegemaakt en stuk voor stuk mijn portfolio
+    aanvullen. 
 description: Stuk voor stuk zal ik documenteren wat we bouwen tijdens ons stage
   en hoe alles verloopt.
 intro:
