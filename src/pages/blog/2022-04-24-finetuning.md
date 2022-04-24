@@ -10,7 +10,7 @@ tags:
   - testruns
   - presentatie
 ---
-Op **maandag** 11 april was onze negende week stage van start gegaan. Na de sprintplanning zijn we begonnen aan de Mobile testcases. Deze zijn iets moeilijker op te stellen aangezien locators niet op de client direct worden gefetched, maar eerder eerst langs de emulator. Het runnen van de testen neemt ook superveel tijd in, dus was het vaak geduldig zijn. Nadat Khalid van de meeste screens de elementen had gedefinieerd, begonnen we na te denken over methode implementatie in de screens.
+Op **maandag** 11 april was onze negende week stage van start gegaan. Na de sprintplanning zijn we begonnen aan de Mobile testcases. Deze zijn iets moeilijker op te stellen aangezien locators niet op de client direct worden gefetched, maar eerder eerst langs de emulator. Het runnen van de testen neemt ook superveel tijd in, dus was het vaak geduldig zijn. Nadat Khalid van de meeste screens de elementen had gedefinieerd, begonnen we na te denken over methode implementatie in de screens. Ook was er een probleem waarbij enkele admin users verwijderd werden. Even paniek, maar de administrator van verscheidene apps van Brightest, Bart Taelemans, kon er één aanmaken en heeft het doorgegeven aan ons.
 
 **Dinsdag** zijn we verdergegaan met de mobile testcases en de nodige methodes op te stellen. Op het einde van de dag waren we erin geslaagd om de eerste testen op Mobile af te werken.
 
