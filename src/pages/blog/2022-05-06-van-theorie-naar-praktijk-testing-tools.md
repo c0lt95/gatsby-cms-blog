@@ -6,9 +6,9 @@ description: Week 14
 featuredpost: true
 featuredimage: /img/sqsq.jpg
 tags:
-  - week13
-  - masterclass
-  - examen
+  - week14
+  - testmanagement
+  - testrail
 ---
 Op **maandag**  9 mei is week 14 van start gegaan. We wilden ons week beginnen met het opzet en finalisatie van TestRail integration. Aangezien we nog de juiste credentials niet hadden voor een project aan te maken, heb ik deze dag nog documentatie in orde gebracht. 
 
