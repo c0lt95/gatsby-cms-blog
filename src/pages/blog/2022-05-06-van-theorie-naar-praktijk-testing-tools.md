@@ -1,25 +1,25 @@
 ---
 templateKey: blog-post
-title: "Van theorie naar praktijk: Testing tools"
+title: Test Management
 date: 2022-05-06T14:31:10.193Z
-description: Week 13
+description: Week 14
 featuredpost: true
-featuredimage: /img/index.png
+featuredimage: /img/sqsq.jpg
 tags:
   - week13
   - masterclass
   - examen
 ---
-Op **maandag**  2 mei is week 13 van start gegaan. We mochten de week beginnen met het afleggen van de ISTQB Test Foundation examen. Deze begon om 8u en duurde een uur lang. Alhamdullilah, het was suikerfeest en ik ben nog eens geslaagd ook. Met een mooie start ben ik naar kantoor vertrokken. Het was Introduction To Testing Automation en aangezien de fundamentals gekend waren dankzij onze stageopdracht, mochten we vroeger door om Suikerfeest te vieren.
+Op **maandag**  9 mei is week 14 van start gegaan. We wilden ons week beginnen met het opzet en finalisatie van TestRail integration. Aangezien we nog de juiste credentials niet hadden voor een project aan te maken, heb ik deze dag nog documentatie in orde gebracht. 
 
-**Dinsdag** kregen we een introductie tot Web- en Mobile automation. Hoewel wij een framework hebben gemaakt, konden we Web Automation verrichten met een software genaamd Katalon. Easy to use and understand; een paar oefeningen gemaakt en de namiddag overgegaan naar lichte codeerwerk. Het was tijd voor Android automation aan de hand van Groovy; lijkt sterk op Java, maar nog meer readable. De IDE van keuze was Android Studio. 
+**Dinsdag** konden we wel beginnen aan TestRail, omdat de credentials in orde waren. Ik ben dan per direct begonnen met het uitschrijven van onze testcases in TestRail, met de kennis die ik tijdens de bootcamp heb opgedaan. Het was nogal een challenge aangezien er veel repetitieve zaken voorkomen, maar altijd met kleine verschillen. Deze kleine verschillen in de testcases zijn van grootste belang, omdat zij bepalen of een testcase goed of slecht is. 
 
-**Woensdag** kregen we een introductie tot het gebruik van Selenium met Java. Dit was wel interessant aangezien we Selenium uitvoerig gebruikt hebben in een .NET omgeving (C#). Er waren veel gelijkenissen in het opstellen van scripts en de algemene structuur. We hebben wel enkele nieuwe zaken gezien zoals de Selenium IDE en AllPages commencer. \
+**Woensdag** ben ik verdergegaan met het uitschrijven van de test cases op TestRail. Ik heb alles van Web kunnen finaliseren en ben in de namiddag met Mobile begonnen. \
 \
-**Donderdag** ging de les over Postman. We kregen een kijk op het gebruik van Postman voor het opzetten van een API request environment en de test collection module. We hadden dit op de hogeschool ook gezien, maar dat is al even geleden. Een nodige opfrisser dus. 
+**Donderdag** is het gelukt om de test cases volledig en correct op TestRail te plaatsen. Ik heb dan samen met Hugues de juiste ID's gelinkt aan de testen in ons framework, zodat de test resultaten bij de juiste cases binnen komen. Toen we een test run probeerde te sturen naar TestRail, zijn we tegen een probleem gebotst: de test cases komen per klasse in een aparte run voor, terwijl ze allemaal in dezelfde run horen te zitten. 
 
-**Vrijdag** ging de les over Performance Testing met jMeter niet door aangezien de docent ziek was. We zijn de dag gestart met een meeting met David en Frederique. Erna hadden we nog veel te bespreken onder ons groep, aangezien Hugues niet de volledige bootcamp mee heeft gevolgd. Hij heeft nogal features aangepast en bijgevoegd. We hebben de stand van zaken besproken en een projectplanning naar de volgende week uitgewerkt. Met deze blogpost heb ik mijn werkweek beëindigd. Eindelijk rusten in het weekend! 
+**Vrijdag** heb ik Laurens Putseys, een consultant binnen Brightest die meer kennis over de integratie van TestRail en een .NET omgeving heeft, gecontacteerd in verband met het probleem dat we ondervonden. Laurens had vrijdag geen tijd, maar was zo vriendelijk om snel te antwoorden. Hij heeft ons enkele tips gegeven, die mogelijk het probleem zouden kunnen oplossen. Voor het geval dat het niet zou lukken, had ik een meeting met Laurens voor maandag ingepland. De tips waren meer dan genoeg en na deze naar Hugues gecommuniceerd te hebben, was ons probleem opgelost! Daarbij kon de meeting geannuleerd worden en was Laurens bedankt!
 
-![pres](/img/schedule-bootcamp.jpg "pres")
+![pres](/img/testrail.jpg "pres")
 
-![]()
+![](/img/testcase.jpg)
