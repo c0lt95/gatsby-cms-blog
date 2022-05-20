@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Test Management
-date: 2022-05-06T14:31:10.193Z
+date: 2022-05-17T06:31:46.930Z
 description: Week 14
 featuredpost: true
 featuredimage: /img/sqsq.jpg
