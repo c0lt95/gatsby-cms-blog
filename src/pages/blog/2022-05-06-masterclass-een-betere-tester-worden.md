@@ -4,7 +4,7 @@ title: "Van theorie naar praktijk: testing tools (was perongeluk verwijderd)"
 date: 2022-05-06T07:12:17.892Z
 description: Week 13
 featuredpost: true
-featuredimage: /img/index.png
+featuredimage: /img/top-tools-in-automated-testing.png
 tags:
   - week11
   - marketing
