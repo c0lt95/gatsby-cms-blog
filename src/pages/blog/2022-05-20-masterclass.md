@@ -4,7 +4,7 @@ title: Masterclass
 date: 2022-05-01T06:15:49.673Z
 description: Week 12
 featuredpost: false
-featuredimage: /img/index.png
+featuredimage: /img/azdazdza.png
 tags:
   - week12
   - masterclass
@@ -19,3 +19,5 @@ Op **maandag** 23 aprils is week 12 van start gegaan. Normaliter zouden we deze 
 **Donderdag** gingen we terug een beetje theorie. Om meer specifiek te zijn keken we naar verschillende methodologieën en werd er bedankdrukt waarom Agile werken belangrijk is bij testing. Hoe nuttig het kan zijn als een bedrijf projecten ontwikkelt volgens de Agile concepten; uiteraard is dit niet altijd de beste kezue, maar vaak wel. De namiddag zagen we een stukje over structured testing, zodat we de dag erop konden beginnen aan de oefeningen. \
 \
 **Vrijdag** was het vooral voorbereidend werk voor de ISTQB examen van maandag. Oefeningen rond structured testing. We hebben equivalence partition, boundary partition, decision coverage en andere technieken gezien en ingeoefend met z'n allen.
+
+![sqdq](/img/azdazd.png "qdq")
